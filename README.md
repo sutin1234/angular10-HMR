@@ -1,4 +1,6 @@
-# Angular10Hmr
+<img src="https://miro.medium.com/max/3020/1*G1A6tG-M-USqxJEBP2DPqA.png" />
+
+# Angular10 (Hot Module Replacement)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
@@ -21,6 +23,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Running hmr-mode
+
+Run `ng serve -c hmr`
 
 ## Further help
 
